@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Muskan Chauhan 👋</h1>
-<h3 align="center">Frontend Developer | Web Developer | CSE'25</h3>
+<h3 align="center">Frontend Developer | Web Developer | CSE'26</h3>
 
 <p align="center">
   Building beautiful, responsive and modern web experiences ✨  
@@ -15,7 +15,8 @@
 - 🌱 Currently learning **DSA + advanced React patterns**  
 - 💼 Past Internships:  
   - Web Developer @ **Code Alpha** (3 months)  
-  - Frontend Developer @ **Webs Jyoti** (1 month)  
+  - Frontend Developer @ **Webs Jyoti** (1 month)
+  - Web Developer @ **Prem Motors** (1 month)   
 - ⚡ Fun fact: I’m a creative mess, but my websites aren’t 😉
 
 ---
