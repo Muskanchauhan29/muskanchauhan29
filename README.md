@@ -68,7 +68,7 @@ Built with Next.js, Tailwind & animations.
 
 ---
 
-## 🌈 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/muskan-chauhan-615619280/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
