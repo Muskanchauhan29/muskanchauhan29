@@ -24,19 +24,8 @@
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
-</p>
-
-### **Backend & DB**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" />
-</p>
-
-### **Tools & Others**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Muskanchauhan29)
 
 ---
 
