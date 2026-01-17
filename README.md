@@ -50,18 +50,12 @@ Built with Next.js, Tailwind & animations.
 
 ## 🌟 My GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="160"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Muskanchauhan29&theme=tokyonight"
-    alt="GitHub Streak"
-    height="160"
-  />
-</p>
+## 🌟 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Muskanchauhan29&theme=tokyonight)
+
 
 
 ---
