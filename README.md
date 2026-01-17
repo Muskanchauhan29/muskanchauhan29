@@ -23,11 +23,44 @@
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Muskanchauhan29)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
 ---
+
+### ⚙️ Backend / Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+---
+
+### 🧠 Languages & Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs" />
+</p>
+
+---
+
+### 🤖 AI / Agentic Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- RAG (Retrieval-Augmented Generation)
+- Hugging Face
+- LangChain
+- LangGraph
+- OpenAI APIs
+
+---
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,figma" />
+</p>
 
 ## 🚀 Featured Projects
 
