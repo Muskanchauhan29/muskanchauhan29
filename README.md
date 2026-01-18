@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Muskan Chauhan 👋</h1>
-<h3 align="center">Frontend Developer | Web Developer | CSE'26</h3>
+<h3 align="center">Web Developer | CSE'26</h3>
 
 <p align="center">
   Building beautiful, responsive and modern web experiences ✨  
@@ -80,8 +80,6 @@ Built with Next.js, Tailwind & animations.
 🔗 **GitHub:** https://github.com/Muskanchauhan29
 
 ---
-
-## 🌟 My GitHub Stats
 
 ## 🌟 My GitHub Stats
 
