@@ -121,11 +121,14 @@ Collection of exploratory data analysis projects using Python.
 
 ## 🌟 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanchauhan29&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanchauhan29&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Muskanchauhan29&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muskanchauhan29&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
