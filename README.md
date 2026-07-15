@@ -1,97 +1,134 @@
-<h1 align="center">Hey, I'm Muskan Chauhan🌼</h1>
-<h3 align="center">Web Developer | CSE'26</h3>
+<h1 align="center">Hey, I'm Muskan Chauhan 🌼</h1>
+<h3 align="center">Aspiring Data Analyst | B.Tech CSE (Data Science & AI) | DS'26</h3>
 
 <p align="center">
-  Building beautiful, responsive and modern web experiences ✨  
+Turning raw data into meaningful insights through analytics, visualization, and machine learning 📊✨
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year **B.Tech CSE** student at MDU  
-- 💻 Passionate **Frontend Developer** specializing in **React, Next.js & Tailwind CSS**  
-- 🔥 Love creating clean UI, smooth UX and pixel-perfect components  
-- 🌱 Currently learning **DSA + advanced React patterns**  
-- 💼 Past Internships:  
-  - Web Developer @ **Code Alpha** (3 months)  
-  - Frontend Developer @ **Webs Jyoti** (1 month)
-  - Web Developer @ **Prem Motors** (1 month)   
-- ⚡ Fun fact: I’m a creative mess, but my websites aren’t 😉
+- 🎓 B.Tech CSE (Data Science & AI) student
+- 📊 Aspiring **Data Analyst** passionate about solving real-world problems with data
+- 📈 Skilled in data cleaning, visualization, dashboard creation, and predictive analytics
+- 🐍 Love working with Python, SQL, Excel, Power BI, and Tableau
+- 🌱 Currently learning advanced SQL, Power BI, and data storytelling
+- 💡 Interested in Business Intelligence, Machine Learning, and Data Visualization
+- ⚡ Fun fact: I enjoy finding patterns in data almost as much as drinking coffee ☕
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### 📊 Data Analytics
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+### 🤖 Machine Learning
+
+- Regression
+- Classification
+- Feature Engineering
+- Model Evaluation
+- Data Preprocessing
+- Predictive Analytics
+
+---
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ---
 
-### ⚙️ Backend / Database
+### 🧰 Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
+
+- Excel
+- Power BI
+- Tableau
+- Google Colab
 
 ---
-
-### 🧠 Languages & Runtime
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs" />
-</p>
-
----
-
-### 🤖 AI / Agentic Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- RAG (Retrieval-Augmented Generation)
-- Hugging Face
-- LangChain
-- LangGraph
-- OpenAI APIs
-
----
-
-### 🧰 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,figma" />
-</p>
 
 ## 🚀 Featured Projects
 
-### 🔹 **MediMeet – Doctor Appointment Platform**
-Modern full-stack healthcare platform built with:
-- Next.js, Tailwind, Prisma  
-- Clerk Authentication  
-- Vonage Video API for consultations  
-🔗 **Live:** https://medicore-ashen.vercel.app/
+### 📊 Customer Churn Prediction
+
+Built an end-to-end machine learning pipeline to predict customer churn using classification models.
+
+**Tech Stack**
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+**Highlights**
+- Data Cleaning & Feature Engineering
+- Exploratory Data Analysis
+- Model Training & Evaluation
+- Churn Prediction Pipeline
+
+🔗 **GitHub:** https://github.com/Muskanchauhan29/Customer_churn_prediction
 
 ---
 
-### 🔹 **Developer Portfolio**
-A clean & modern portfolio showcasing my work.  
-Built with Next.js, Tailwind & animations.  
-🔗 **Live:** https://portfolio-hbiy.vercel.app/  
-🔗 **GitHub:** https://github.com/Muskanchauhan29
+### 📈 Sales Dashboard
+
+Interactive business dashboard built using Power BI/Tableau to monitor KPIs, sales trends, customer insights, and regional performance.
+
+**Skills**
+- Dashboard Design
+- Data Visualization
+- Business Insights
+- KPI Tracking
 
 ---
 
-## 🌟 My GitHub Stats
+### 📊 Data Analysis Projects
+
+Collection of exploratory data analysis projects using Python.
+
+**Skills**
+- Data Cleaning
+- Data Visualization
+- Statistical Analysis
+- Business Insights
+
+---
+
+## 🌟 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanchauhan29&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muskanchauhan29&theme=tokyonight)
-
-
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/muskan-chauhan-615619280/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
@@ -101,4 +138,6 @@ Built with Next.js, Tailwind & animations.
 
 ---
 
-<p align="center">💖 Thanks for visiting! Let’s build something amazing together.</p>
+<p align="center">
+💙 Always learning, always exploring data, and always looking for opportunities to turn data into impactful decisions.
+</p>
