@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Muskan Chauhan 🌼</h1>
-<h3 align="center">Aspiring Data Analyst | B.Tech CSE (Data Science & AI) | DS'26</h3>
+<h3 align="center">Aspiring Data Analyst | DS'26</h3>
 
 <p align="center">
 Turning raw data into meaningful insights through analytics, visualization, and machine learning 📊✨
@@ -9,7 +9,7 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE (Data Science & AI) student
+- 🎓 B.Tech CSE (Data Science)
 - 📊 Aspiring **Data Analyst** passionate about solving real-world problems with data
 - 📈 Skilled in data cleaning, visualization, dashboard creation, and predictive analytics
 - 🐍 Love working with Python, SQL, Excel, Power BI, and Tableau
