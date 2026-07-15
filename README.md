@@ -71,57 +71,21 @@ class Muskan:
 
 ## 🌷 Tech Stack
 
-<table>
-
-<tr>
-
-<td valign="top" width="50%">
-
 ### 📊 Data Analytics
 
-![Excel](https://img.shields.io/badge/Excel-FF69B4?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-FF8FC7?style=flat-square&logo=mysql&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F7CAD0?style=flat-square&logo=powerbi&logoColor=black)
-
-![Tableau](https://img.shields.io/badge/Tableau-FF69B4?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-FF69B4?style=flat-square&logo=microsoft-excel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-FF8FC7?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F7CAD0?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-FF69B4?style=flat-square&logo=tableau&logoColor=white)
 
 ### 🐍 Programming
 
-![Python](https://img.shields.io/badge/Python-FF8FC7?style=flat-square&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-FF69B4?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF8FC7?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-FF69B4?style=flat-square&logo=openjdk&logoColor=white)
 
 ### 💻 Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-FFB6D9?style=flat-square&logo=scikitlearn&logoColor=black)
-
-![Pandas](https://img.shields.io/badge/Pandas-FF69B4?style=flat-square&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-FF8FC7?style=flat-square&logo=numpy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFB6D9?style=flat-square)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-FF69B4?style=flat-square)
-
-</td>
-
-<td valign="top" width="50%">
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-FFB6D9?style=flat-square&logo=scikitlearn&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-FF69B4?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-FF8FC7?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFB6D9?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-FF69B4?style=flat-square)
 
 ### 🧸 Tools
 
-![Git](https://img.shields.io/badge/Git-FF69B4?style=flat-square&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-FFB6D9?style=flat-square&logo=github&logoColor=black)
-
-![VS Code](https://img.shields.io/badge/VS_Code-FF8FC7?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-FF69B4?style=flat-square&logo=jupyter&logoColor=white)
-
-![Google Colab](https://img.shields.io/badge/Google_Colab-FFB6D9?style=flat-square&logo=googlecolab&logoColor=black)
-
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-FF8FC7?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF69B4?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FFB6D9?style=flat-square&logo=github&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-FF8FC7?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FF69B4?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-FFB6D9?style=flat-square&logo=googlecolab&logoColor=black) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-FF8FC7?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🌸 Currently Learning
 
@@ -131,12 +95,6 @@ class Muskan:
 - 🤖 Machine Learning
 - 📖 Data Storytelling
 - 📋 Business Intelligence
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
