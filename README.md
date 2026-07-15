@@ -33,7 +33,7 @@ class Muskan:
 
     role = "Aspiring Data Analyst 🎀"
 
-    education = "B.Tech CSE (Data Science & AI)"
+    education = "B.Tech CSE (Data Science)"
 
     skills = [
         "Python",
@@ -59,7 +59,7 @@ class Muskan:
     motto = "Turning raw data into actionable insights, one dashboard at a time 💕"
 ```
 
-- 🎀 B.Tech CSE (Data Science & AI) Student
+- 🎀 B.Tech CSE (Data Science) Student
 - 📊 Passionate about transforming raw data into meaningful business insights
 - 💖 Skilled in data cleaning, visualization, dashboard development, and predictive analytics
 - 🌸 Love working with Python, SQL, Excel, Power BI, Tableau, and Machine Learning
@@ -191,7 +191,6 @@ Solved real-world business problems using SQL queries.
 - Business Queries
 - Data Cleaning
 
-> Add your SQL repository link here.
 
 </td>
 
