@@ -158,7 +158,6 @@ Interactive business dashboard built using **Power BI** to analyze sales trends 
 - 📅 Monthly Sales Trends
 - 🎯 Business Insights
 
-> Replace this section with your actual Power BI dashboard once uploaded.
 
 </td>
 
