@@ -1,37 +1,37 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1E3A8A,100:2563EB&height=220&section=header&text=Muskan%20Chauhan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20Student&descAlignY=63&descSize=19&descColor=93C5FD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4EC,50:FFB6D9,100:FF69B4&height=220&section=header&text=Muskan%20Chauhan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20Student&descAlignY=63&descSize=19&descColor=FFF0F5"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+meaningful+insights+📊;Python+%7C+SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Visualization+%7C+Machine+Learning+%7C+EDA;Always+learning+something+new+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=FF69B4&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+meaningful+insights+%F0%9F%92%96;Python+%7C+SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Visualization+%7C+Machine+Learning+%7C+EDA;Always+learning+something+new+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://www.linkedin.com/in/muskan-chauhan-615619280/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Muskanchauhan29">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:muskchauhan296@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Muskanchauhan29&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Muskanchauhan29&label=Profile+Views&color=FF69B4&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 💗 About Me
 
 ```python
 class Muskan:
 
-    role = "Aspiring Data Analyst"
+    role = "Aspiring Data Analyst 🎀"
 
     education = "B.Tech CSE (Data Science & AI)"
 
@@ -56,20 +56,20 @@ class Muskan:
         "Data Visualization"
     ]
 
-    motto = "Turning raw data into actionable insights."
+    motto = "Turning raw data into actionable insights, one dashboard at a time 💕"
 ```
 
-- 🎓 B.Tech CSE (Data Science & AI) Student
+- 🎀 B.Tech CSE (Data Science & AI) Student
 - 📊 Passionate about transforming raw data into meaningful business insights
-- 📈 Skilled in data cleaning, visualization, dashboard development, and predictive analytics
-- 🐍 Love working with Python, SQL, Excel, Power BI, Tableau, and Machine Learning
-- 🌱 Currently learning advanced SQL, statistics, and business intelligence
+- 💖 Skilled in data cleaning, visualization, dashboard development, and predictive analytics
+- 🌸 Love working with Python, SQL, Excel, Power BI, Tableau, and Machine Learning
+- ✨ Currently learning advanced SQL, statistics, and business intelligence
 - 💼 Open to Data Analyst, Business Analyst, and BI Analyst opportunities
-- ⚡ Fun Fact: I enjoy finding hidden patterns in data.
+- 🦋 Fun Fact: I enjoy finding hidden patterns in data
 
 ---
 
-# 🛠 Tech Stack
+## 🌷 Tech Stack
 
 <table>
 
@@ -77,53 +77,53 @@ class Muskan:
 
 <td valign="top" width="50%">
 
-## 📊 Data Analytics
+### 📊 Data Analytics
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-FF69B4?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF8FC7?style=flat-square&logo=mysql&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F7CAD0?style=flat-square&logo=powerbi&logoColor=black)
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-FF69B4?style=flat-square&logo=tableau&logoColor=white)
 
-## 🐍 Programming
+### 🐍 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF8FC7?style=flat-square&logo=python&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF69B4?style=flat-square&logo=openjdk&logoColor=white)
 
-## 🤖 Machine Learning
+### 💻 Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-FFB6D9?style=flat-square&logo=scikitlearn&logoColor=black)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF69B4?style=flat-square&logo=pandas&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF8FC7?style=flat-square&logo=numpy&logoColor=white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFB6D9?style=flat-square)
 
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-FF69B4?style=flat-square)
 
 </td>
 
 <td valign="top" width="50%">
 
-## 🧰 Tools
+### 🧸 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF69B4?style=flat-square&logo=git&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFB6D9?style=flat-square&logo=github&logoColor=black)
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FF8FC7?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF69B4?style=flat-square&logo=jupyter&logoColor=white)
 
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-FFB6D9?style=flat-square&logo=googlecolab&logoColor=black)
 
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-FF8FC7?style=flat-square&logo=mysql&logoColor=white)
 
-## 📚 Currently Learning
+### 🌸 Currently Learning
 
 - 📊 Advanced SQL
 - 📈 Power BI Dashboard Design
@@ -140,9 +140,9 @@ class Muskan:
 
 ---
 
-# 🚀 Featured Projects
+## 💐 Featured Projects
 
-## 📊 Customer Churn Prediction
+### 📊 Customer Churn Prediction
 
 <table>
 
@@ -152,11 +152,11 @@ class Muskan:
 
 Predict customer churn using Machine Learning and help businesses improve customer retention through data-driven insights.
 
-### 🛠 Tech Stack
+**🎀 Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
-### ✨ Features
+**✨ Features**
 
 - 📊 Exploratory Data Analysis
 - 🧹 Data Cleaning & Preprocessing
@@ -165,9 +165,9 @@ Predict customer churn using Machine Learning and help businesses improve custom
 - 📈 Model Evaluation
 - 🎯 Churn Prediction Pipeline
 
-### 🔗 Links
+**🔗 Links**
 
-[![GitHub](https://img.shields.io/badge/💻%20Source%20Code-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muskanchauhan29/Customer_churn_prediction)
+[![GitHub](https://img.shields.io/badge/💻%20Source%20Code-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muskanchauhan29/Customer_churn_prediction)
 
 </td>
 
@@ -177,7 +177,7 @@ Predict customer churn using Machine Learning and help businesses improve custom
 
 ---
 
-## 📈 Sales Dashboard
+### 📈 Sales Dashboard
 
 <table>
 
@@ -187,11 +187,11 @@ Predict customer churn using Machine Learning and help businesses improve custom
 
 Interactive business dashboard built using **Power BI** to analyze sales trends and KPIs.
 
-### 🛠 Tech Stack
+**🎀 Tech Stack**
 
 `Power BI` `Excel`
 
-### ✨ Features
+**✨ Features**
 
 - 📈 KPI Dashboard
 - 🌍 Regional Sales Analysis
@@ -210,7 +210,7 @@ Interactive business dashboard built using **Power BI** to analyze sales trends 
 
 ---
 
-## 📉 SQL Data Analysis
+### 📉 SQL Data Analysis
 
 <table>
 
@@ -220,11 +220,11 @@ Interactive business dashboard built using **Power BI** to analyze sales trends 
 
 Solved real-world business problems using SQL queries.
 
-### 🛠 Skills
+**🎀 Skills**
 
 `SQL` `MySQL`
 
-### Topics Covered
+**Topics Covered**
 
 - Joins
 - CTEs
@@ -244,7 +244,7 @@ Solved real-world business problems using SQL queries.
 
 ---
 
-## 📊 Excel Dashboard
+### 📊 Excel Dashboard
 
 <table>
 
@@ -254,7 +254,7 @@ Solved real-world business problems using SQL queries.
 
 Interactive Excel Dashboard built for business reporting and KPI monitoring.
 
-### Features
+**Features**
 
 - Dynamic Charts
 - Pivot Tables
@@ -273,13 +273,13 @@ Interactive Excel Dashboard built for business reporting and KPI monitoring.
 
 ---
 
-# 📊 GitHub Analytics
+## 💕 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muskanchauhan29&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF69B4&text_color=8B3A62&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanchauhan29&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanchauhan29&layout=compact&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=8B3A62"/>
 
 </div>
 
@@ -287,38 +287,38 @@ Interactive Excel Dashboard built for business reporting and KPI monitoring.
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Muskanchauhan29&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Muskanchauhan29&theme=radical&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🌸 Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muskanchauhan29&theme=github-compact&bg_color=0d1117&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muskanchauhan29&theme=react-dark&bg_color=FFF0F5&color=FF69B4&line=FF69B4&point=FF1493&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muskanchauhan29&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Muskanchauhan29&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 📌 Featured Skills
+## 💖 Featured Skills
 
 <div align="center">
 
 | 📊 Data Analysis | 📈 Visualization | 🐍 Programming | 🤖 Machine Learning |
-|:----------------:|:---------------:|:-------------:|:-------------------:|
+|:-----------------:|:-----------------:|:----------------:|:--------------------:|
 | SQL | Power BI | Python | Scikit-learn |
 | Excel | Tableau | Java | Regression |
 | Data Cleaning | Matplotlib | Pandas | Classification |
@@ -328,9 +328,9 @@ Interactive Excel Dashboard built for business reporting and KPI monitoring.
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-- ✅ Land my first **Data Analyst** role
+- 💗 Land my first **Data Analyst** role
 - 📊 Build 10+ end-to-end analytics projects
 - 🏆 Master SQL for interviews
 - 📈 Become an expert in Power BI & Tableau
@@ -339,7 +339,7 @@ Interactive Excel Dashboard built for business reporting and KPI monitoring.
 
 ---
 
-# 📚 Currently Exploring
+## 🌷 Currently Exploring
 
 - 📊 Business Intelligence
 - 📈 Dashboard Design
@@ -350,7 +350,7 @@ Interactive Excel Dashboard built for business reporting and KPI monitoring.
 
 ---
 
-# 💡 Quote I Live By
+## 💌 Quote I Live By
 
 <div align="center">
 
@@ -362,34 +362,34 @@ Interactive Excel Dashboard built for business reporting and KPI monitoring.
 
 ---
 
-# 📬 Connect With Me
+## 💐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muskan-chauhan-615619280/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:muskchauhan296@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Drop%20a%20Mail-FF8FC7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/Muskanchauhan29">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"I believe every dataset has a story to tell—and I'm passionate about uncovering it through analytics and visualization."*
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0d1117&height=120&section=footer"/>
+<div align="center">
+
+### 🎀 Thanks for visiting my profile!
+
+*"I believe every dataset has a story to tell — and I'm passionate about uncovering it through analytics and visualization."* 💕
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FFB6D9,100:FFE4EC&height=120&section=footer"/>
