@@ -167,7 +167,7 @@ Interactive business dashboard built using **Power BI** to analyze sales trends 
 
 ---
 
-### 📉 SQL Data Analysis
+### 📈 SQL Data Analysis
 
 <table>
 
@@ -263,7 +263,7 @@ Interactive Excel Dashboard built for business reporting and KPI monitoring.
 
 <div align="center">
 
-| 📊 Data Analysis | 📈 Visualization | 🐍 Programming | 🤖 Machine Learning |
+| 📊 Data Analysis | 📈 Visualization | Programming | 🤖 Machine Learning |
 |:-----------------:|:-----------------:|:----------------:|:--------------------:|
 | SQL | Power BI | Python | Scikit-learn |
 | Excel | Tableau | Java | Regression |
