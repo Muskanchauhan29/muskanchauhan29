@@ -65,5 +65,5 @@
 
 *little steps, big dreams ✨*
 
-**thanks for stopping by! ♡ **
+thanks for stopping by! ♡
 </div>
