@@ -15,7 +15,7 @@
 <div align="center">
   <img src="./catty.gif"
        width="180"
-       alt="Suspicious cat 🐈‍⬛" />
+       />
 </div>
 
 ### ✿ my little toolkit
@@ -68,8 +68,11 @@
 <a href="mailto:muskchauhan296@gmail.com">Email me</a> ·
 <a href="https://github.com/Muskanchauhan29">GitHub</a>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Cute cat typing on a laptop"/>
-
+<div align="center">
+  <img src="./kitty.gif"
+       width="180" />
+  <p><em>See yaa againnn🥹</em></p>
+</div>
 *little steps, big dreams ✨*
 
 thanks for stopping by! ♡
