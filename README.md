@@ -65,6 +65,5 @@
 
 *little steps, big dreams ✨*
 
-**thanks for visiting my little corner of GitHub ♡**
-
+**thanks for stopping by! ♡ **
 </div>
