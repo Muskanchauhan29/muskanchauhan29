@@ -56,7 +56,13 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muskanchauhan29&bg_color=fff7fb&color=d76b9b&line=e8a3c2&point=d76b9b&area=true&hide_border=true" width="95%" alt="GitHub contribution graph"/>
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/ff69b4/Muskanchauhan29"
+    alt="Muskan's GitHub contribution graph"
+    width="90%"
+  />
+</p>
 
 ### 🌷 currently growing
 
