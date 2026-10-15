@@ -13,6 +13,14 @@
 
 ### ✿ my little toolkit
 
+<div align="center">
+  <img src="./catty.gif"
+       width="180"
+       alt="Suspicious cat 🐈‍⬛" />
+  <p><em>me checking my code after it says “no errors” 💀</em></p>
+</div>
+
+
 **languages & data**
 
 ![Python](https://img.shields.io/badge/Python-f8c8dc?style=flat-square&logo=python&logoColor=594052)
