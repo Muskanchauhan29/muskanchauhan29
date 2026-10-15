@@ -77,10 +77,10 @@
 <p align="center">
   <img src="./kitty.gif" width="180" alt="Cute cat GIF" />
   <br />
-  <em>See yaa againn 🥹</em>
+  <em>pspsps… come back soon🥹</em>
 </p>
 
 *little steps, big dreams ✨*
 
-thanks for stopping by! ♡
+thanks for stopping biee! ♡
 </div>
