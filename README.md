@@ -74,11 +74,12 @@
 <a href="mailto:muskchauhan296@gmail.com">Email me</a> ·
 <a href="https://github.com/Muskanchauhan29">GitHub</a>
 
-<div align="center">
-  <img src="./kitty.gif"
-       width="180" />
-  <p><em>See yaa againnn🥹</em></p>
-</div>
+<p align="center">
+  <img src="./kitty.gif" width="180" alt="Cute cat GIF" />
+  <br />
+  <em>See yaa againn 🥹</em>
+</p>
+
 *little steps, big dreams ✨*
 
 thanks for stopping by! ♡
