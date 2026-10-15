@@ -17,7 +17,6 @@
   <img src="./catty.gif"
        width="180"
        alt="Suspicious cat 🐈‍⬛" />
-  <p><em>me checking my code after it says “no errors” 💀</em></p>
 </div>
 
 
