@@ -72,7 +72,6 @@
 
 <a href="https://www.linkedin.com/in/muskan-chauhan-615619280/">LinkedIn</a> ·
 <a href="mailto:muskchauhan296@gmail.com">Email me</a> ·
-<a href="https://github.com/Muskanchauhan29">GitHub</a>
 
 <p align="center">
   <img src="./kitty.gif" width="180" alt="Cute cat GIF" />
