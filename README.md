@@ -11,7 +11,6 @@
 🌷 Learning something new, one project at a time  
 💌 Open to collaborations, feedback & new opportunities!
 
-### ✿ my little toolkit
 
 <div align="center">
   <img src="./catty.gif"
@@ -19,6 +18,7 @@
        alt="Suspicious cat 🐈‍⬛" />
 </div>
 
+### ✿ my little toolkit
 
 **languages & data**
 
